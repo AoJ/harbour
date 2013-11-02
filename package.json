@@ -1,5 +1,5 @@
 {
-    "name" : "seaport",
+    "name" : "harbour",
     "description" : "service registry and port assignment for clusters",
     "version" : "1.7.1",
     "repository" : {
@@ -9,7 +9,7 @@
     "main" : "index.js",
     "browserify" : "lib/seaport.js",
     "bin" : {
-        "seaport" : "bin/cmd.js"
+        "harbour" : "bin/cmd.js"
     },
     "keywords" : [
         "port",
